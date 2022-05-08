@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "lcd_1in14.h": "c",
+        "epd_test.h": "c"
+    }
+}
